@@ -6,12 +6,12 @@
 
 <br>
 
-[![Download IPA](https://img.shields.io/badge/⬇_Download_IPA_(v442.0.0)-000000?style=for-the-badge&logo=threads&logoColor=white)](../../releases/latest)
+[![Download IPA](https://img.shields.io/badge/⬇_Download_IPA_(v446.1.0.30.67)-000000?style=for-the-badge&logo=threads&logoColor=white)](../../releases/latest)
 [![Telegram](https://img.shields.io/badge/Chat_on_Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MUH4MM4DSH4KIB)
 
 ![iOS](https://img.shields.io/badge/iOS_14.0+-000000?style=flat-square&logo=apple&logoColor=white)
 ![ARM64](https://img.shields.io/badge/arm64-blue?style=flat-square)
-![Version](https://img.shields.io/badge/Threads-v442.0.0.25.66-000000?style=flat-square&logo=threads&logoColor=white)
+![Version](https://img.shields.io/badge/Threads-v446.1.0.30.67-000000?style=flat-square&logo=threads&logoColor=white)
 ![Updated](https://img.shields.io/badge/Updated-Regularly-brightgreen?style=flat-square)
 
 </div>
@@ -30,9 +30,9 @@
 
 <div align="center">
 
-<img width="590" height="1280" alt="Threads iOS SSL Pinning Bypass PoC – Traffic Captured" src="https://github.com/user-attachments/assets/0cc12d26-d65c-4d5c-9b55-dee4b253a6f8" />
+<img width="590" height="1280" alt="Image" src="https://github.com/user-attachments/assets/ed31d7a1-bc9a-4df2-bdf8-1145d33f7219" />
 
-> Live capture — Threads iOS HTTPS traffic intercepted in cleartext. **v442.0.0.25.66**.
+> Live capture — Threads iOS HTTPS traffic intercepted in cleartext. **v446.1.0.30.67**.
 
 </div>
 
@@ -42,7 +42,7 @@
 
 | App | Bundle ID | Version | Arch | Status |
 |-----|-----------|:-------:|:----:|:------:|
-| Threads for iOS | `com.burbn.barcelona` | **442.0.0.25.66** | `arm64` | ✅ [**Download**](../../releases/latest) |
+| Threads for iOS | `com.burbn.barcelona` | **446.1.0.30.67** | `arm64` | ✅ [**Download**](../../releases/latest) |
 
 > Grab the patched IPA from the [**Releases**](../../releases/latest) section. Need the newest build or another version? [Message me on Telegram](https://t.me/MUH4MM4DSH4KIB).
 
